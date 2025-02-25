@@ -1,0 +1,15 @@
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/bin/Debug/net9.0/InMemoryDB
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/bin/Debug/net9.0/InMemoryDB.deps.json
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/bin/Debug/net9.0/InMemoryDB.runtimeconfig.json
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/bin/Debug/net9.0/InMemoryDB.dll
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/bin/Debug/net9.0/InMemoryDB.pdb
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/InMemoryDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/InMemoryDB.AssemblyInfoInputs.cache
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/InMemoryDB.AssemblyInfo.cs
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/InMemoryDB.csproj.CoreCompileInputs.cache
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/InMemoryDB.sourcelink.json
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/InMemoryDB.dll
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/refint/InMemoryDB.dll
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/InMemoryDB.pdb
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/InMemoryDB.genruntimeconfig.cache
+/Users/serbantimofte/Documents/InMemoryDatabaseApp/InMemoryDB/InMemoryDB/obj/Debug/net9.0/ref/InMemoryDB.dll
